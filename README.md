@@ -54,6 +54,7 @@ plots.get_plots()
 Please note that you need to replace 'AAPL' with your desired stock symbol in the above code snippet.
 
 Note: To see the NB with its plot open it with nbviewer link given below.
+
 [nbviewer](https://nbviewer.org/github/KalpRanpura/ALGOBULLS_PYTHON_DEVELOPER_ASSIGNMENT/blob/main/AlgoBulls_Python_Developer_Coding_Assignment.ipynb)
 
 
